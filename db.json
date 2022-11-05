@@ -9,8 +9,10 @@
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 3.5,
+      "Followers": 0,
       "specialty": "Dermatology",
       "experience": "+10 years",
+      "position": "Consulting Doctor",
       "graduation": {
         "grade": "Very Good",
         "year": 2000,
@@ -31,10 +33,11 @@
       "cImage": "https://thumbs.dreamstime.com/b/dermatology-beauty-healthcare-background-banner-doctor-skin-hair-face-lifting-icons-dermatology-beauty-healthcare-236146860.jpg",
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
+      "Followers": 0,
+      "position": "Specialist Doctor",
       "specialty": "Dermatology",
       "experience": "+5 years",
       "rate": 4.5,
-
       "graduation": {
         "grade": "Good",
         "year": 2010,
@@ -57,7 +60,8 @@
       "waiting": "10:00 min",
       "specialty": "Dermatology",
       "rate": 4.5,
-
+      "Followers": 0,
+      "position": "Specialist Doctor",
       "experience": "+6 years",
       "graduation": {
         "grade": "Very Good",
@@ -80,6 +84,8 @@
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 2.5,
+      "Followers": 0,
+      "position": "PhD",
       "experience": "+20 years",
       "specialty": "Dermatology",
       "graduation": {
@@ -96,7 +102,7 @@
     },
     {
       "id": 4,
-      "name": "Dr.Sara Ali",
+      "name": "Dr.Alaa Ali",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://thumbs.dreamstime.com/b/dermatology-beauty-healthcare-background-banner-doctor-skin-hair-face-lifting-icons-dermatology-beauty-healthcare-236146860.jpg",
@@ -104,6 +110,8 @@
       "waiting": "16:00 min",
       "experience": "+2 years",
       "rate": 1.5,
+      "Followers": 0,
+      "position": "Resident doctor",
       "specialty": "Dermatology",
       "graduation": {
         "grade": "Very Good",
@@ -117,8 +125,9 @@
         "country": "Egypt"
       }
     },
+
     {
-      "id": 6,
+      "id": 5,
       "name": "Dr.Mai Ibrahim",
       "phone": 1968,
       "fees": 300,
@@ -127,6 +136,8 @@
       "waiting": "16:00 min",
       "experience": "+10 years",
       "specialty": "Pulmonologist",
+      "Followers": 0,
+      "position": "Consulting Doctor",
       "rate": 1,
       "graduation": {
         "grade": "Very Good",
@@ -141,14 +152,17 @@
       }
     },
     {
-      "id": 7,
-      "name": "Dr.Mohammed Mostafa",
+      "id": 6,
+      "name": "Dr.Rady Mostafa",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://assets.lybrate.com/img/documents/doctor/dp/e85f7f8e635476323d5f72d9dd254612/Pulmonology-ManojKumarGoel-Delhi-4ca8aa.jpg",
       "waiting": "25:00 min",
       "rate": 2,
+      "Followers": 0,
+      "position": "Specialist Doctor",
+
       "specialty": "Pulmonologist",
       "experience": "+5 years",
       "graduation": {
@@ -165,12 +179,15 @@
     },
     {
       "id": 8,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Loaa Mohammed",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-lolVctt9rtGpj2jfo1BY_63T7G920UEFw&usqp=CAU",
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
+      "Followers": 0,
+      "position": "Specialist Doctor",
+
       "rate": 3.5,
       "specialty": "Pulmonologist",
       "experience": "+6 years",
@@ -188,13 +205,16 @@
     },
     {
       "id": 9,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.Samy Aouf",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://www.kimshealth.org/media/filer_public_thumbnails/filer_public/30/fc/30fc8534-c653-479e-a5a9-be7f3dec6458/dr-izhudheen-irshad-fccp.jpg__253x285_q85_crop_subsampling-2.jpg",
       "waiting": "30:00 min",
       "rate": 4,
+      "Followers": 0,
+      "position": "PhD",
+
       "specialty": "Pulmonologist",
       "experience": "+20 years",
       "graduation": {
@@ -211,15 +231,18 @@
     },
     {
       "id": 10,
-      "name": "Dr.Sara Ali",
+      "name": "Dr.Manal Mostafa",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://cdn.askapollo.com/live/images/doctors/pulmonology/dr-sivaresmi-unnithan-roy-pulmonology-in-kolkata.png",
       "waiting": "16:00 min",
       "rate": 5,
+      "Followers": 0,
+      "position": "Resident doctor",
       "specialty": "Pulmonologist",
       "experience": "+2 years",
+
       "graduation": {
         "grade": "Very Good",
         "year": 2019,
@@ -232,6 +255,7 @@
         "country": "Egypt"
       }
     },
+
     {
       "id": 11,
       "name": "Dr.Ola Ibrahim",
@@ -240,9 +264,12 @@
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
       "pImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWxupWvRhgwbst5QfUmu1Ib7RSFNpicXiytXnbncvpRCBrjsAWzwRcVr8SoLBSMKTMJI&usqp=CAU",
       "waiting": "16:00 min",
+      "Followers": 0,
       "rate": 4,
       "specialty": "Otolaryngology",
       "experience": "+10 years",
+      "position": "Consulting Doctor",
+
       "graduation": {
         "grade": "Very Good",
         "year": 2000,
@@ -264,7 +291,8 @@
       "pImage": "https://dims.healthgrades.com/dims3/MMH/80d83a7/2147483647/strip/true/crop/5760x3218+0+311/resize/800x447!/quality/75/?url=https%3A%2F%2Fucmscdn.healthgrades.com%2F24%2Ff0%2F3541aba04ac0812de486db8d04f5%2Fimage-doctor.jpg",
       "waiting": "25:00 min",
       "specialty": "Otolaryngology",
-
+      "Followers": 0,
+      "position": "Specialist Doctor",
       "rate": 3,
       "experience": "+5 years",
       "graduation": {
@@ -289,6 +317,8 @@
       "waiting": "10:00 min",
       "rate": 3,
       "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -305,7 +335,7 @@
     },
     {
       "id": 14,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.Hazem Azab",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
@@ -313,6 +343,8 @@
       "waiting": "30:00 min",
       "rate": 2,
       "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -329,7 +361,7 @@
     },
     {
       "id": 15,
-      "name": "Dr.Sara Ali",
+      "name": "Dr.Sara Yasser",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
@@ -337,6 +369,8 @@
       "waiting": "16:00 min",
       "rate": 3,
       "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -351,6 +385,7 @@
         "country": "Egypt"
       }
     },
+
     {
       "id": 16,
       "name": "Dr.Saly Ibrahim",
@@ -361,6 +396,8 @@
       "waiting": "16:00 min",
       "rate": 3,
       "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -385,6 +422,8 @@
       "waiting": "25:00 min",
       "rate": 4,
       "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -393,7 +432,7 @@
         "university": "Ain Shams"
       },
       "aAddress": {
-        "street": "ِEltayaran",
+        "street": "Eltayaran",
         "city": "Nasr City",
         "government": "Cairo",
         "country": "Egypt"
@@ -409,6 +448,8 @@
       "waiting": "10:00 min",
       "rate": 2,
       "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -433,6 +474,8 @@
       "waiting": "30:00 min",
       "rate": 2.6,
       "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -449,7 +492,7 @@
     },
     {
       "id": 20,
-      "name": "Dr.Sara Ahmed",
+      "name": "Dr.Nora Ahmed",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://thumbs.dreamstime.com/b/pediatrician-doctor-patient-small-child-28947491.jpg",
@@ -457,6 +500,8 @@
       "waiting": "16:00 min",
       "rate": 4.5,
       "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -471,6 +516,7 @@
         "country": "Egypt"
       }
     },
+
     {
       "id": 21,
       "name": "Dr.Maha Mohsen",
@@ -481,6 +527,8 @@
       "waiting": "16:00 min",
       "rate": 3.5,
       "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -489,7 +537,7 @@
         "university": "Kasr Al Aini"
       },
       "aAddress": {
-        "street": "ِAbdel Hamid Lotfi",
+        "street": "Abdel Hamid Lotfi",
         "city": "ElMohandessin",
         "government": "Giza",
         "country": "Egypt"
@@ -505,6 +553,8 @@
       "waiting": "25:00 min",
       "rate": 4,
       "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -513,7 +563,7 @@
         "university": "Ain Shams"
       },
       "aAddress": {
-        "street": "ِEltayaran",
+        "street": "Eltayaran",
         "city": "Nasr City",
         "government": "Cairo",
         "country": "Egypt"
@@ -529,6 +579,8 @@
       "waiting": "10:00 min",
       "rate": 4.5,
       "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -553,6 +605,8 @@
       "waiting": "30:00 min",
       "rate": 3.4,
       "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -577,6 +631,8 @@
       "waiting": "16:00 min",
       "rate": 3.7,
       "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -591,9 +647,10 @@
         "country": "Egypt"
       }
     },
+
     {
       "id": 26,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Razan Saad",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -601,6 +658,8 @@
       "waiting": "16:00 min",
       "rate": 2,
       "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -617,7 +676,7 @@
     },
     {
       "id": 27,
-      "name": "Dr.Mohammed Mostafa",
+      "name": "Dr.Maher Mostafa",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -625,6 +684,8 @@
       "waiting": "25:00 min",
       "rate": 2.8,
       "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -641,7 +702,7 @@
     },
     {
       "id": 28,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Aya yasser",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -649,6 +710,8 @@
       "waiting": "10:00 min",
       "rate": 1.5,
       "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -665,7 +728,7 @@
     },
     {
       "id": 29,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.omnia Yousry",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -673,6 +736,8 @@
       "waiting": "30:00 min",
       "rate": 4.5,
       "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -689,7 +754,7 @@
     },
     {
       "id": 30,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Reem Gamal",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -697,6 +762,8 @@
       "waiting": "16:00 min",
       "rate": 2.2,
       "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -711,9 +778,10 @@
         "country": "Egypt"
       }
     },
+
     {
       "id": 31,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Mervat Sakr",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
@@ -721,6 +789,8 @@
       "waiting": "16:00 min",
       "rate": 3.8,
       "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -737,7 +807,7 @@
     },
     {
       "id": 32,
-      "name": "Dr.Ali Mostafa",
+      "name": "Dr.Ali Omar",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
@@ -745,6 +815,8 @@
       "waiting": "25:00 min",
       "rate": 4,
       "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -761,7 +833,7 @@
     },
     {
       "id": 33,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Noha Tamer",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
@@ -769,6 +841,8 @@
       "waiting": "10:00 min",
       "rate": 3,
       "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -785,7 +859,7 @@
     },
     {
       "id": 34,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.Mahmoud AbdElhamed",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
@@ -793,6 +867,8 @@
       "waiting": "30:00 min",
       "rate": 4.8,
       "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -809,7 +885,7 @@
     },
     {
       "id": 35,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Menna Atef",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
@@ -817,6 +893,8 @@
       "waiting": "16:00 min",
       "rate": 4,
       "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -831,9 +909,10 @@
         "country": "Egypt"
       }
     },
+
     {
       "id": 36,
-      "name": "Dr.Soha Ahmed",
+      "name": "Dr.Hala AbdAllah",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://www.beverlyhillsmagazine.com/wp-content/uploads/Celebrity-Plastic-Surgery-Magazine-Beauty-products-Beverly-Hills-Magazine-Plastic-Surgery-Procedures-1.jpg",
@@ -841,6 +920,8 @@
       "waiting": "16:00 min",
       "rate": 5,
       "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -865,6 +946,8 @@
       "waiting": "25:00 min",
       "rate": 4,
       "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -889,6 +972,8 @@
       "waiting": "10:00 min",
       "rate": 4.7,
       "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -913,6 +998,8 @@
       "waiting": "30:00 min",
       "rate": 1.9,
       "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -937,6 +1024,8 @@
       "waiting": "16:00 min",
       "rate": 4,
       "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -952,6 +1041,7 @@
       }
     }
   ],
+
   "Dermatology": [
     {
       "id": 0,
@@ -962,7 +1052,10 @@
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 3.5,
+      "Followers": 0,
+      "specialty": "Dermatology",
       "experience": "+10 years",
+      "position": "Consulting Doctor",
       "graduation": {
         "grade": "Very Good",
         "year": 2000,
@@ -983,9 +1076,11 @@
       "cImage": "https://thumbs.dreamstime.com/b/dermatology-beauty-healthcare-background-banner-doctor-skin-hair-face-lifting-icons-dermatology-beauty-healthcare-236146860.jpg",
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
+      "Followers": 0,
+      "position": "Specialist Doctor",
+      "specialty": "Dermatology",
       "experience": "+5 years",
       "rate": 4.5,
-
       "graduation": {
         "grade": "Good",
         "year": 2010,
@@ -1006,8 +1101,10 @@
       "cImage": "https://thumbs.dreamstime.com/b/dermatology-beauty-healthcare-background-banner-doctor-skin-hair-face-lifting-icons-dermatology-beauty-healthcare-236146860.jpg",
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
+      "specialty": "Dermatology",
       "rate": 4.5,
-
+      "Followers": 0,
+      "position": "Specialist Doctor",
       "experience": "+6 years",
       "graduation": {
         "grade": "Very Good",
@@ -1030,7 +1127,10 @@
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 2.5,
+      "Followers": 0,
+      "position": "PhD",
       "experience": "+20 years",
+      "specialty": "Dermatology",
       "graduation": {
         "grade": "Very Good",
         "year": 1999,
@@ -1045,7 +1145,7 @@
     },
     {
       "id": 4,
-      "name": "Dr.Sara Ali",
+      "name": "Dr.Alaa Ali",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://thumbs.dreamstime.com/b/dermatology-beauty-healthcare-background-banner-doctor-skin-hair-face-lifting-icons-dermatology-beauty-healthcare-236146860.jpg",
@@ -1053,7 +1153,9 @@
       "waiting": "16:00 min",
       "experience": "+2 years",
       "rate": 1.5,
-
+      "Followers": 0,
+      "position": "Resident doctor",
+      "specialty": "Dermatology",
       "graduation": {
         "grade": "Very Good",
         "year": 2019,
@@ -1069,14 +1171,17 @@
   ],
   "Pulmonologist": [
     {
-      "id": 6,
-      "name": "Dr.Sara Ibrahim",
+      "id": 5,
+      "name": "Dr.Mai Ibrahim",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://assets.lybrate.com/img/documents/doctor/dp/04fb7c5a47fbae84e02ae44a25550e3f/Pulmonology-NeetuTalwar-b37b4a.JPG",
       "waiting": "16:00 min",
       "experience": "+10 years",
+      "specialty": "Pulmonologist",
+      "Followers": 0,
+      "position": "Consulting Doctor",
       "rate": 1,
       "graduation": {
         "grade": "Very Good",
@@ -1091,14 +1196,18 @@
       }
     },
     {
-      "id": 7,
-      "name": "Dr.Mohammed Mostafa",
+      "id": 6,
+      "name": "Dr.Rady Mostafa",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://assets.lybrate.com/img/documents/doctor/dp/e85f7f8e635476323d5f72d9dd254612/Pulmonology-ManojKumarGoel-Delhi-4ca8aa.jpg",
       "waiting": "25:00 min",
       "rate": 2,
+      "Followers": 0,
+      "position": "Specialist Doctor",
+
+      "specialty": "Pulmonologist",
       "experience": "+5 years",
       "graduation": {
         "grade": "Good",
@@ -1114,13 +1223,17 @@
     },
     {
       "id": 8,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Loaa Mohammed",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-lolVctt9rtGpj2jfo1BY_63T7G920UEFw&usqp=CAU",
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
+      "Followers": 0,
+      "position": "Specialist Doctor",
+
       "rate": 3.5,
+      "specialty": "Pulmonologist",
       "experience": "+6 years",
       "graduation": {
         "grade": "Very Good",
@@ -1136,13 +1249,17 @@
     },
     {
       "id": 9,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.Samy Aouf",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://www.kimshealth.org/media/filer_public_thumbnails/filer_public/30/fc/30fc8534-c653-479e-a5a9-be7f3dec6458/dr-izhudheen-irshad-fccp.jpg__253x285_q85_crop_subsampling-2.jpg",
       "waiting": "30:00 min",
       "rate": 4,
+      "Followers": 0,
+      "position": "PhD",
+
+      "specialty": "Pulmonologist",
       "experience": "+20 years",
       "graduation": {
         "grade": "Very Good",
@@ -1158,15 +1275,18 @@
     },
     {
       "id": 10,
-      "name": "Dr.Sara Ali",
+      "name": "Dr.Manal Mostafa",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://mallareddynarayana.com/wp-content/uploads/2020/07/Pulmonology-and-Tuberculosis_banner.png",
       "pImage": "https://cdn.askapollo.com/live/images/doctors/pulmonology/dr-sivaresmi-unnithan-roy-pulmonology-in-kolkata.png",
       "waiting": "16:00 min",
       "rate": 5,
-
+      "Followers": 0,
+      "position": "Resident doctor",
+      "specialty": "Pulmonologist",
       "experience": "+2 years",
+
       "graduation": {
         "grade": "Very Good",
         "year": 2019,
@@ -1183,15 +1303,18 @@
   "Otolaryngology": [
     {
       "id": 11,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Ola Ibrahim",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
       "pImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNWxupWvRhgwbst5QfUmu1Ib7RSFNpicXiytXnbncvpRCBrjsAWzwRcVr8SoLBSMKTMJI&usqp=CAU",
       "waiting": "16:00 min",
+      "Followers": 0,
       "rate": 4,
-
+      "specialty": "Otolaryngology",
       "experience": "+10 years",
+      "position": "Consulting Doctor",
+
       "graduation": {
         "grade": "Very Good",
         "year": 2000,
@@ -1206,12 +1329,15 @@
     },
     {
       "id": 12,
-      "name": "Dr.Mohammed Mostafa",
+      "name": "Dr.Mohammed Ali",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
       "pImage": "https://dims.healthgrades.com/dims3/MMH/80d83a7/2147483647/strip/true/crop/5760x3218+0+311/resize/800x447!/quality/75/?url=https%3A%2F%2Fucmscdn.healthgrades.com%2F24%2Ff0%2F3541aba04ac0812de486db8d04f5%2Fimage-doctor.jpg",
       "waiting": "25:00 min",
+      "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
       "rate": 3,
       "experience": "+5 years",
       "graduation": {
@@ -1228,13 +1354,17 @@
     },
     {
       "id": 13,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Yasmeen Said",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 3,
+      "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
+
       "experience": "+6 years",
       "graduation": {
         "grade": "Very Good",
@@ -1250,13 +1380,16 @@
     },
     {
       "id": 14,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.Hazem Azab",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
       "pImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyQBBFmMVl95_jJBcjFKE7ZTtNFc7t2KlGg&usqp=CAU",
       "waiting": "30:00 min",
       "rate": 2,
+      "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -1273,13 +1406,16 @@
     },
     {
       "id": 15,
-      "name": "Dr.Sara Ali",
+      "name": "Dr.Sara Yasser",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://image.shutterstock.com/image-vector/otorhinolaryngologist-typographic-header-healthcare-concept-260nw-1806007933.jpg",
       "pImage": "https://medicine.osu.edu/-/media/images/shared/people/p/ph-pm/plotner_alisha_724x840.jpg?la=en&hash=31109F615B273980357C5473146B9947B68EEFF2",
       "waiting": "16:00 min",
       "rate": 3,
+      "specialty": "Otolaryngology",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -1305,6 +1441,9 @@
       "pImage": "https://www.kpwomenshealth.org/images/providers/DaisyDoddMD.jpg",
       "waiting": "16:00 min",
       "rate": 3,
+      "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -1328,6 +1467,9 @@
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
       "rate": 4,
+      "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -1336,7 +1478,7 @@
         "university": "Ain Shams"
       },
       "aAddress": {
-        "street": "ِEltayaran",
+        "street": "Eltayaran",
         "city": "Nasr City",
         "government": "Cairo",
         "country": "Egypt"
@@ -1351,6 +1493,9 @@
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 2,
+      "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -1374,6 +1519,9 @@
       "pImage": "https://imagesx.practo.com/providers/dr-manu-sharma-pediatrician-chandigarh-24b6056f-acac-4e2d-b357-9fc2bd9a72b3.jpg?i_type=t_100x100-4x",
       "waiting": "30:00 min",
       "rate": 2.6,
+      "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -1390,13 +1538,16 @@
     },
     {
       "id": 20,
-      "name": "Dr.Sara Ahmed",
+      "name": "Dr.Nora Ahmed",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://thumbs.dreamstime.com/b/pediatrician-doctor-patient-small-child-28947491.jpg",
       "pImage": "https://previews.123rf.com/images/citalliance/citalliance1202/citalliance120200138/12348975-pediatric-doctor-examine-kid-using-stethoscope.jpg",
       "waiting": "16:00 min",
       "rate": 4.5,
+      "specialty": "Pediatrics",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -1422,6 +1573,9 @@
       "pImage": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/72/2021/03/19145424/iStock-1207212199-640x480.jpg",
       "waiting": "16:00 min",
       "rate": 3.5,
+      "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -1430,7 +1584,7 @@
         "university": "Kasr Al Aini"
       },
       "aAddress": {
-        "street": "ِAbdel Hamid Lotfi",
+        "street": "Abdel Hamid Lotfi",
         "city": "ElMohandessin",
         "government": "Giza",
         "country": "Egypt"
@@ -1445,6 +1599,9 @@
       "pImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCTVuXw6kCvBoIbsuu9CcVE9T_37lo_59WCzjG7ZIDCxrNkeu9z2iCc6zKhOZJg6BHDA&usqp=CAU",
       "waiting": "25:00 min",
       "rate": 4,
+      "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -1453,7 +1610,7 @@
         "university": "Ain Shams"
       },
       "aAddress": {
-        "street": "ِEltayaran",
+        "street": "Eltayaran",
         "city": "Nasr City",
         "government": "Cairo",
         "country": "Egypt"
@@ -1468,6 +1625,9 @@
       "pImage": "https://blog.cdphp.com/wp-content/uploads/2015/07/primary-care-physician.jpg",
       "waiting": "10:00 min",
       "rate": 4.5,
+      "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -1491,6 +1651,9 @@
       "pImage": "https://images.squarespace-cdn.com/content/v1/58361d02ff7c50058bae611c/1575304994269-WWRTQCJ6Z4KO73827021/92019175_l.jpg",
       "waiting": "30:00 min",
       "rate": 3.4,
+      "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -1514,6 +1677,9 @@
       "pImage": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/494/2019/10/26213735/What-is-the-Role-of-a-Primary-Care-Physician.jpg",
       "waiting": "16:00 min",
       "rate": 3.7,
+      "specialty": "InternalMedicine",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -1529,16 +1695,20 @@
       }
     }
   ],
+
   "Ophthalmology": [
     {
       "id": 26,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Razan Saad",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 2,
+      "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -1555,13 +1725,16 @@
     },
     {
       "id": 27,
-      "name": "Dr.Mohammed Mostafa",
+      "name": "Dr.Maher Mostafa",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
       "rate": 2.8,
+      "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -1578,13 +1751,16 @@
     },
     {
       "id": 28,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Aya yasser",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 1.5,
+      "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -1601,13 +1777,16 @@
     },
     {
       "id": 29,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.omnia Yousry",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 4.5,
+      "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -1624,13 +1803,16 @@
     },
     {
       "id": 30,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Reem Gamal",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
       "pImage": "https://medicine.osu.edu/-/media/images/shared/people/p/ph-pm/plotner_alisha_724x840.jpg?la=en&hash=31109F615B273980357C5473146B9947B68EEFF2",
       "waiting": "16:00 min",
       "rate": 2.2,
+      "specialty": "Ophthalmology",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -1646,16 +1828,20 @@
       }
     }
   ],
+
   "Psychiatry": [
     {
       "id": 31,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Mervat Sakr",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 3.8,
+      "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Consulting Doctor",
 
       "experience": "+10 years",
       "graduation": {
@@ -1672,13 +1858,16 @@
     },
     {
       "id": 32,
-      "name": "Dr.Ali Mostafa",
+      "name": "Dr.Ali Omar",
       "phone": 1957,
       "fees": 350,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
       "rate": 4,
+      "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -1695,13 +1884,16 @@
     },
     {
       "id": 33,
-      "name": "Dr.Amany Said",
+      "name": "Dr.Noha Tamer",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 3,
+      "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -1718,13 +1910,16 @@
     },
     {
       "id": 34,
-      "name": "Dr.Ali Yousef",
+      "name": "Dr.Mahmoud AbdElhamed",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 4.8,
+      "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -1741,13 +1936,16 @@
     },
     {
       "id": 35,
-      "name": "Dr.Sara Ibrahim",
+      "name": "Dr.Menna Atef",
       "phone": 1968,
       "fees": 150,
       "cImage": "https://thumbs.dreamstime.com/b/psychiatrist-seal-print-grunge-style-blue-vector-rubber-print-psychiatrist-title-grunge-texture-text-tag-placed-138693184.jpg",
       "pImage": "https://medicine.osu.edu/-/media/images/shared/people/p/ph-pm/plotner_alisha_724x840.jpg?la=en&hash=31109F615B273980357C5473146B9947B68EEFF2",
       "waiting": "16:00 min",
       "rate": 4,
+      "specialty": "Psychiatry",
+      "Followers": 0,
+      "position": "Resident doctor",
 
       "experience": "+2 years",
       "graduation": {
@@ -1763,16 +1961,21 @@
       }
     }
   ],
+
   "plasticSurgery": [
     {
       "id": 36,
-      "name": "Dr.Soha Ahmed",
+      "name": "Dr.Hala AbdAllah",
       "phone": 1968,
       "fees": 300,
       "cImage": "https://www.beverlyhillsmagazine.com/wp-content/uploads/Celebrity-Plastic-Surgery-Magazine-Beauty-products-Beverly-Hills-Magazine-Plastic-Surgery-Procedures-1.jpg",
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 5,
+      "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Consulting Doctor",
+
       "experience": "+10 years",
       "graduation": {
         "grade": "Very Good",
@@ -1795,6 +1998,9 @@
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
       "rate": 4,
+      "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+5 years",
       "graduation": {
@@ -1818,6 +2024,9 @@
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 4.7,
+      "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Specialist Doctor",
 
       "experience": "+6 years",
       "graduation": {
@@ -1841,6 +2050,9 @@
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 1.9,
+      "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "PhD",
 
       "experience": "+20 years",
       "graduation": {
@@ -1864,6 +2076,10 @@
       "pImage": "https://medicine.osu.edu/-/media/images/shared/people/p/ph-pm/plotner_alisha_724x840.jpg?la=en&hash=31109F615B273980357C5473146B9947B68EEFF2",
       "waiting": "16:00 min",
       "rate": 4,
+      "specialty": "plasticSurgery",
+      "Followers": 0,
+      "position": "Resident doctor",
+
       "experience": "+2 years",
       "graduation": {
         "grade": "Very Good",
