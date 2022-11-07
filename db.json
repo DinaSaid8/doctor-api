@@ -16,10 +16,10 @@
       "graduation": {
         "grade": "Very Good",
         "year": 2000,
-        "university": "Kasr Al Aini"
+        "university":"Kasr Al Aini"
       },
       "aAddress": {
-        "street": "ِAbdel Hamid Lotfi",
+        "street": "Abdel Hamid Lotfi",
         "city": "ElMohandessin",
         "government": "Giza",
         "country": "Egypt"
@@ -44,7 +44,7 @@
         "university": "Ain Shams"
       },
       "aAddress": {
-        "street": "ِEltayaran",
+        "street": "Eltayaran",
         "city": "Nasr City",
         "government": "Cairo",
         "country": "Egypt"
@@ -145,7 +145,7 @@
         "university": "Kasr Al Aini"
       },
       "aAddress": {
-        "street": "ِAbdel Hamid Lotfi",
+        "street": "Abdel Hamid Lotfi",
         "city": "ElMohandessin",
         "government": "Giza",
         "country": "Egypt"
@@ -171,7 +171,7 @@
         "university": "Ain Shams"
       },
       "aAddress": {
-        "street": "ِEltayaran",
+        "street": "Eltayaran",
         "city": "Nasr City",
         "government": "Cairo",
         "country": "Egypt"
