@@ -111,7 +111,7 @@
       "experience": "+2 years",
       "rate": 1.5,
       "Followers": 0,
-      "position": "Resident doctor",
+      "position": "Resident Doctor",
       "specialty": "Dermatology",
       "graduation": {
         "grade": "Very Good",
@@ -526,7 +526,7 @@
       "pImage": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/72/2021/03/19145424/iStock-1207212199-640x480.jpg",
       "waiting": "16:00 min",
       "rate": 3.5,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Consulting Doctor",
 
@@ -552,7 +552,7 @@
       "pImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCTVuXw6kCvBoIbsuu9CcVE9T_37lo_59WCzjG7ZIDCxrNkeu9z2iCc6zKhOZJg6BHDA&usqp=CAU",
       "waiting": "25:00 min",
       "rate": 4,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -578,7 +578,7 @@
       "pImage": "https://blog.cdphp.com/wp-content/uploads/2015/07/primary-care-physician.jpg",
       "waiting": "10:00 min",
       "rate": 4.5,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -604,7 +604,7 @@
       "pImage": "https://images.squarespace-cdn.com/content/v1/58361d02ff7c50058bae611c/1575304994269-WWRTQCJ6Z4KO73827021/92019175_l.jpg",
       "waiting": "30:00 min",
       "rate": 3.4,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "PhD",
 
@@ -630,7 +630,7 @@
       "pImage": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/494/2019/10/26213735/What-is-the-Role-of-a-Primary-Care-Physician.jpg",
       "waiting": "16:00 min",
       "rate": 3.7,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Resident doctor",
 
@@ -702,7 +702,7 @@
     },
     {
       "id": 28,
-      "name": "Dr.Aya yasser",
+      "name": "Dr.Aya Yasser",
       "phone": 1988,
       "fees": 400,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -728,7 +728,7 @@
     },
     {
       "id": 29,
-      "name": "Dr.omnia Yousry",
+      "name": "Dr.Omnia Yousry",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -919,7 +919,7 @@
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 5,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Consulting Doctor",
 
@@ -945,7 +945,7 @@
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
       "rate": 4,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -971,7 +971,7 @@
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 4.7,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -997,7 +997,7 @@
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 1.9,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "PhD",
 
@@ -1023,7 +1023,7 @@
       "pImage": "https://medicine.osu.edu/-/media/images/shared/people/p/ph-pm/plotner_alisha_724x840.jpg?la=en&hash=31109F615B273980357C5473146B9947B68EEFF2",
       "waiting": "16:00 min",
       "rate": 4,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Resident doctor",
 
@@ -1573,7 +1573,7 @@
       "pImage": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/72/2021/03/19145424/iStock-1207212199-640x480.jpg",
       "waiting": "16:00 min",
       "rate": 3.5,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Consulting Doctor",
 
@@ -1599,7 +1599,7 @@
       "pImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShCTVuXw6kCvBoIbsuu9CcVE9T_37lo_59WCzjG7ZIDCxrNkeu9z2iCc6zKhOZJg6BHDA&usqp=CAU",
       "waiting": "25:00 min",
       "rate": 4,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -1625,7 +1625,7 @@
       "pImage": "https://blog.cdphp.com/wp-content/uploads/2015/07/primary-care-physician.jpg",
       "waiting": "10:00 min",
       "rate": 4.5,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -1651,7 +1651,7 @@
       "pImage": "https://images.squarespace-cdn.com/content/v1/58361d02ff7c50058bae611c/1575304994269-WWRTQCJ6Z4KO73827021/92019175_l.jpg",
       "waiting": "30:00 min",
       "rate": 3.4,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "PhD",
 
@@ -1677,7 +1677,7 @@
       "pImage": "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/494/2019/10/26213735/What-is-the-Role-of-a-Primary-Care-Physician.jpg",
       "waiting": "16:00 min",
       "rate": 3.7,
-      "specialty": "InternalMedicine",
+      "specialty": "Internal Medicine",
       "Followers": 0,
       "position": "Resident doctor",
 
@@ -1777,7 +1777,7 @@
     },
     {
       "id": 29,
-      "name": "Dr.omnia Yousry",
+      "name": "Dr.Omnia Yousry",
       "phone": 1768,
       "fees": 250,
       "cImage": "https://img.freepik.com/free-vector/hand-drawn-ophthalmologist-facebook-cover_23-2149362344.jpg?w=2000",
@@ -1972,7 +1972,7 @@
       "pImage": "https://blogscdn.thehut.net/app/uploads/sites/1160/2017/05/main-dermatologist.jpg",
       "waiting": "16:00 min",
       "rate": 5,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Consulting Doctor",
 
@@ -1998,7 +1998,7 @@
       "pImage": "https://orlandodermatologycenter.com/wp-content/uploads/2015/12/portfolio-8.jpg",
       "waiting": "25:00 min",
       "rate": 4,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -2024,7 +2024,7 @@
       "pImage": "https://www.wederm.com/wp-content/uploads/sites/3/2020/05/hp-header-mobile.jpg",
       "waiting": "10:00 min",
       "rate": 4.7,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Specialist Doctor",
 
@@ -2050,7 +2050,7 @@
       "pImage": "https://cdn.askapollo.com/live/images/doctors/dermatology/dr-d-m-mahajan-dermatology-in-delhi.png",
       "waiting": "30:00 min",
       "rate": 1.9,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "PhD",
 
@@ -2076,7 +2076,7 @@
       "pImage": "https://medicine.osu.edu/-/media/images/shared/people/p/ph-pm/plotner_alisha_724x840.jpg?la=en&hash=31109F615B273980357C5473146B9947B68EEFF2",
       "waiting": "16:00 min",
       "rate": 4,
-      "specialty": "plasticSurgery",
+      "specialty": "Plastic Surgery",
       "Followers": 0,
       "position": "Resident doctor",
 
